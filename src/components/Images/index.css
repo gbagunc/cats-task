@@ -1,0 +1,14 @@
+.images-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+.image-item {
+  width: 100px;
+  margin: 10px;
+  cursor: pointer;
+}
+img {
+  width: 100%;
+}
